@@ -1,12 +1,5 @@
 # Walid-El-Hioul
 
-## 👋 Hi, I’m Walid
-
-- 👀 I’m interested in cyber threat intelligence (CTI)
-- 🌱 I’m currently learning Computer System and Networks
-- 🤝 I’m looking to collaborate with several communities in CyberSecurity
-- 📫 Reach me with Gmail: [walidelhioul0000@gmail.com](mailto:walidelhioul0000@gmail.com) Phone: 0777179016
-
 ---
 
 <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px;">
