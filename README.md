@@ -9,8 +9,6 @@
 
 ---
 
-## Additional Profile Details with HTML and CSS
-
 <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px;">
   <h2 style="color: #4CAF50;">About Me</h2>
   <p>Hello! I'm <strong>Walid</strong>, a passionate learner in the field of Cyber Threat Intelligence (CTI). Currently, I am pursuing studies in Computer System and Networks and looking to collaborate with various communities in CyberSecurity.</p>
