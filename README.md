@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Walid El-Hioul
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+
 ## 👀 About Me
 
 <div style="border: 2px solid #4CAF50; padding: 15px; border-radius: 10px; background-color: #f9f9f9;">
