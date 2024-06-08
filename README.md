@@ -1,41 +1,47 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16F2F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Walid+El+Hioul)](https://git.io/typing-svg)
 
-
-
-## 👀 About Me
-
-<div style="border: 2px solid #4CAF50; padding: 15px; border-radius: 10px; background-color: #f9f9f9;">
-  <h2 style="color: #4CAF50; text-align: center;">Welcome to My Profile!</h2>
-  <p style="text-align: center;">
-    <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
-  </p>
-  <p>Hello! I'm <strong>Walid</strong>, a passionate learner in the field of Cyber Threat Intelligence (CTI). I am currently pursuing studies in Computer System and Networks and looking to collaborate with various communities in CyberSecurity.</p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li><span style="color: #4CAF50;">🌟</span> <strong>Interest:</strong> Cyber Threat Intelligence (CTI)</li>
-    <li><span style="color: #4CAF50;">📚</span> <strong>Currently Learning:</strong> Computer System and Networks</li>
-    <li><span style="color: #4CAF50;">🤝</span> <strong>Looking to Collaborate:</strong> CyberSecurity communities</li>
-    <li><span style="color: #4CAF50;">📫</span> <strong>Contact:</strong> <a href="mailto:walidelhioul0000@gmail.com">walidelhioul0000@gmail.com</a> | Phone: 0777179016</li>
-  </ul>
+<div align="center">
+  <img src="https://media1.tenor.com/m/-HjUievG4yQAAAAd/thors-vinland-saga.gif" alt="Vinland Saga Gif">
 </div>
 
----
+* 🌍  I'm based in Morocco
+* ✉️  You can contact me at [walidelhioul0000@gmail.com](mailto:walidelhioul0000@gmail.com)
+* 🚀  I'm currently working on [Nomorexploit Website](http://nomorexploit.com)
+* 🧠  I'm learning Cyber Threat Intelligence (CTI)
 
-## 🌐 Connect with Me
+### Skills
 
-<p align="center">
-  <a href="mailto:walidelhioul0000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   </a>
 </p>
 
-## 💻 Skills
+### Socials
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Networking-FF9A00?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
-  <img src="https://img.shields.io/badge/CyberSecurity-2E7EEA?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CyberSecurity">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
+<p align="left">
+  <a href="https://www.github.com/Walid-El-Hioul/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/walid-el-hioul" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Walid-El-Hioul/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Walid-El-Hioul/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
