@@ -9,7 +9,7 @@
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [walidelhioul0000@gmail.com](mailto:walidelhioul0000@gmail.com)
-* 🚀  I'm currently working on [Nomorexploit Website](<a href="http://nomorexploit.com" target="_blenk"></a>)
+* 🚀  I'm currently working on [Nomorexploit Website] <a href="http://nomorexploit.com" target="_blenk">nomorexploit</a>
 * 🧠  I'm learning Cyber Threat Intelligence (CTI)
 
 ### Skills
