@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Colombia&weight=700&size=30&pause=1000&color=26DE2A&center=true&vCenter=true&random=false&width=435&lines=Hi+there%F0%9F%91%8B;You+are+welcomed+to+my;World)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Colombia&weight=700&size=30&pause=1000&color=26DE2A&center=true&vCenter=true&random=false&width=435&lines=Hi+there%F0%9F%91%8B;You+are+welcomed+to+my;World)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [walidelhioul0000@gmail.com](mailto:walidelhioul0000@gmail.com)
-* 🚀  I'm currently working on [Nomorexploit Website](http://nomorexploit.com)
+* 🚀  I'm currently working on [Nomorexploit Website](<a href="http://nomorexploit.com" target="_blenk"></a>)
 * 🧠  I'm learning Cyber Threat Intelligence (CTI)
 
 ### Skills
