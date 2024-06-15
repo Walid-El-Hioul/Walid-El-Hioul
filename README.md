@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16F2F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Walid+El+Hioul)](https://git.io/typing-svg)
+[![Typing SVG](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJxejdkcDY2MWxsYjAxdTQzYmdidXFjcTdscW1zend6OGY2ZHNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp)
 </div>
 
 <div align="center">
