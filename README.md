@@ -8,7 +8,7 @@
 </div>
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [walidelhioul0000@gmail.com](mailto:walidelhioul0000@gmail.com)
+* ✉️  You can contact me at [walidelhioul0000@gmail.com](mailto:walidelhioul@gmail.com)
 * 🧠  Cyber Threat Intelligence (CTI)
 
 ### Skills
