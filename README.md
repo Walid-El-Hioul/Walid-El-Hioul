@@ -7,7 +7,6 @@
   <img src="https://media1.tenor.com/m/-HjUievG4yQAAAAd/thors-vinland-saga.gif" alt="Vinland Saga Gif">
 </div>
 
-* 🌍  I'm based in Morocco
 * ✉️  You can contact me at [walidelhioul@outlook.com](mailto:walidelhioul@outlook.com)
 * 🧠  Cyber Threat Intelligence (CTI)
 
