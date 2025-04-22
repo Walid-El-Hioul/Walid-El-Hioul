@@ -70,7 +70,6 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- Blog posts will appear here automatically when you set up the GitHub Action
 <!-- BLOG-POST-LIST:END -->
 
 ---
