@@ -1,9 +1,8 @@
 # Walid El Hioul
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Linux+Enthusiast;Problem+Solver;Open+Source+Contributor;Network+Technician" alt="Typing SVG" />
-  
-  <p>🌱 Passionate about clean code, Linux systems, cybersecurity, and open-source technology</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Network+Technician;Cybersecurity+Enthusiast;Linux+Administrator;System+Administrator;Problem+Solver" alt="Typing SVG" />
+  <p>🌱 Passionate about secure systems, network infrastructure, cybersecurity, and open-source technology</p>
 </div>
 
 ## 🔗 Connect With Me
@@ -25,10 +24,7 @@
 
 ## About Me
 
-I am a motivated individual with a broad knowledge base in computer systems, networks, and cybersecurity. I have built a solid foundation through education, self-learning, and hands-on projects.
-
-- 🖥️ Software Engineer specializing in Python development
-- 🎓 Computer Systems and Networks Technician at Lissane Eddine Ibn Al khatib
+- 🎓 Computer Systems and Networks Technician
 - 🐧 Linux enthusiast with strong command-line skills
 - 🔍 Passionate about system programming, security, and optimization
 - 🌱 Quick learner with adaptability and effective communication skills
