@@ -1,39 +1,82 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Colombia&weight=700&size=30&pause=1000&color=26DE2A&center=true&vCenter=true&random=false&width=435&lines=Hi+there%F0%9F%91%8B;You+are+welcomed+to+my;World)](https://git.io/typing-svg)
-</div>
+# Walid El Hioul
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/-HjUievG4yQAAAAd/thors-vinland-saga.gif" alt="Vinland Saga Gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=26DE2A&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Linux+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  
+  <p>🌱 Passionate about clean code, Linux systems, and open-source technology</p>
+  
+  <a href="mailto:walidelhioul@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=microsoftoutlook" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/walid-el-hioul">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Walid-El-Hioul">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 </div>
 
-* ✉️  You can contact me at [walidelhioul@outlook.com](mailto:walidelhioul@outlook.com)
-* 🧠  Cyber Threat Intelligence (CTI)
+## About Me
 
-### Skills
+- 🖥️ Software Engineer specializing in C and Python development
+- 🐧 Linux enthusiast with strong command-line skills
+- 🔍 Passionate about system programming and optimization
+- 🌱 Currently focusing on [current learning focus or project]
+- 👯 Looking to collaborate on open-source projects related to [your interests]
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<div align="center">
+  <img src="https://media1.tenor.com/m/-HjUievG4yQAAAAd/thors-vinland-saga.gif" alt="Vinland Saga Gif" width="500" />
+</div>
 
-### Socials
+## 🔧 Technologies & Tools
 
-<p align="left">
-  <a href="https://www.github.com/Walid-El-Hioul/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/walid-el-hioul" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
+<div align="center">
 
-<b>My GitHub Stats</b>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<a href="http://www.github.com/Walid-El-Hioul/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Walid-El-Hioul/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walid-El-Hioul&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Walid-El-Hioul&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walid-El-Hioul&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-el-hioul)
+[![Blog](https://img.shields.io/badge/Personal_Blog-Visit-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblogurl.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walidelhioul@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Walid-El-Hioul)
+
+</div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Blog posts will appear here automatically when you set up the GitHub Action
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Walid-El-Hioul&color=brightgreen&style=flat-square" alt="Profile views" />
+  
+  <p>💬 <i>"The only way to learn a new programming language is by writing programs in it."</i> - Dennis Ritchie</p>
+</div>
