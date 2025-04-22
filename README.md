@@ -31,7 +31,7 @@
 - 👯 Looking to collaborate on open-source projects related to cybersecurity
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/-HjUievG4yQAAAAd/thors-vinland-saga.gif" alt="Vinland Saga Gif" width="450" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Welcome%20to%20my%20Code%20World&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Welcome Banner" width="100%" />
 </div>
 
 ## 🔧 Technologies & Tools
