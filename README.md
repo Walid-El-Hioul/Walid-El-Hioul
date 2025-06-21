@@ -61,12 +61,15 @@
   <img src="https://img.shields.io/badge/Windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=FF0000" alt="Windows" />
 </p>
 
-### Security Tools
+### Networking Tools
 <p>
   <img src="https://img.shields.io/badge/Wireshark-FFFFFF?style=for-the-badge&logo=wireshark&logoColor=FF0000" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=FF0000" alt="Nmap" />
+</p>
+
+### Directory Service
+<p>
   <img src="https://img.shields.io/badge/Active_Directory-FFFFFF?style=for-the-badge&logo=microsoft&logoColor=FF0000" alt="Active Directory" />
-  <img src="https://img.shields.io/badge/Packet_Tracer-FFFFFF?style=for-the-badge&logo=cisco&logoColor=FF0000" alt="Packet Tracer" />
 </p>
 
 </div>
