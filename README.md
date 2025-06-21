@@ -49,7 +49,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=FF0000" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visual-studio-code&logoColor=FF0000" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=FF0000" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub" />
   <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=FF0000" alt="MySQL" />
 </p>
