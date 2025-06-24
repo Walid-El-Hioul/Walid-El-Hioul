@@ -56,7 +56,6 @@
 ### Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=FF0000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=FF0000" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=FF0000" alt="Windows" />
 </p>
 
