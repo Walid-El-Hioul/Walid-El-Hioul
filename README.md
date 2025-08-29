@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/walid-el-hioul">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&color=FF0000" alt="LinkedIn" />
   </a>
-  <a href="https://walid-el-hioul.github.io">
-    <img src="https://img.shields.io/badge/Personal_Blog-Visit-FFFFFF?style=for-the-badge&logo=blogger&logoColor=white&color=FF0000" alt="Blog" />
-  </a>
   <a href="mailto:walidelhioul@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=FF0000" alt="Email" />
   </a>
