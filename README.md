@@ -1,7 +1,7 @@
 # Walid El Hioul
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Network+Technician;Cybersecurity+Enthusiast;Linux+Administrator;System+Administrator;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Network+Technician;Cybersecurity+Student;Linux+Administrator;System+Administrator;Problem+Solver" alt="Typing SVG" />
   <p>🌱 Passionate about secure systems, network infrastructure, cybersecurity, and open-source technology</p>
 </div>
 
