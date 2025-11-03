@@ -79,5 +79,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Walid-El-Hioul&color=FF0000&style=flat-square" alt="Profile views" />
   
-  <p>💬 <i>"The only way to learn a new programming language is by writing programs in it."</i> - Dennis Ritchie</p>
+  <p>💬 <i>"In the end, it's not the years in your life that count. It's the life in your years."</i> — Abraham Lincoln</p>
 </div>
