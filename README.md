@@ -14,9 +14,6 @@
   <a href="mailto:walidelhioul@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=FF0000" alt="Email" />
   </a>
-  <a href="https://github.com/Walid-El-Hioul">
-    <img src="https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=white&color=FF0000" alt="GitHub" />
-  </a>
 </div>
 
 ## About Me
