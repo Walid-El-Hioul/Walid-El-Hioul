@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Network+Technician;Cybersecurity+Student;Linux+Administrator;System+Administrator;Problem+Solver" alt="Typing SVG" />
-  <p>🌱 Passionate about secure systems, network infrastructure, cybersecurity, and open-source technology</p>
+  <p> Passionate about secure systems, network infrastructure, cybersecurity, and open-source technology</p>
 </div>
 
 ## 🔗 Connect With Me
@@ -18,11 +18,11 @@
 
 ## About Me
 
-- 🎓 Computer Systems and Networks Technician
-- 🐧 Linux enthusiast with strong command-line skills
-- 🔍 Passionate about system programming, security, and optimization
-- 🌱 Quick learner with adaptability and effective communication skills
-- 👯 Looking to collaborate on open-source projects related to cybersecurity
+-  Computer Systems and Networks Technician
+-  Linux enthusiast with strong command-line skills
+-  Passionate about system programming, security, and optimization
+-  Quick learner with adaptability and effective communication skills
+-  Looking to collaborate on open-source projects related to cybersecurity
 
 <div align="center">
   <img src="Resources/cyber.jpg" alt="Welcome Banner" width="100%" />
